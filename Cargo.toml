@@ -1,0 +1,10 @@
+[package]
+name = "horizon-thaumcraft-core"
+version = "4.2.3.5"
+edition = "2024"
+license = "LicenseRef-Proprietary-NoRedistribution"
+publish = false
+description = "Thaumcraft 4.2.3.5 Horizon native port scaffold. Contains no Thaumcraft assets or decompiled code."
+
+[lib]
+path = "mixins/thaumcraft_core/runtime.rs"

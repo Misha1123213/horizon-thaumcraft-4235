@@ -1,0 +1,8 @@
+id = "thaumcraft"
+name = "Thaumcraft 4.2.3.5 (Horizon port, content layer)"
+version = "4.2.3.5"
+description = "Local content layer generated from your own Thaumcraft jar. No TC4 assets are committed."
+authors = ["Misha1123213", "port contributors"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

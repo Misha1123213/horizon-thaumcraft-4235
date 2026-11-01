@@ -1,0 +1,9 @@
+# локально сгенерированное из jar — не коммитим
+/build/
+/content/thaumcraft/assets/
+/content/thaumcraft/data/
+**/.local/
+**/target/
+*.hmod
+*.hnmod
+.DS_Store
